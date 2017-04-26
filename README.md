@@ -5,3 +5,5 @@
 ### blendfun 效果 http://www.andersriggelsen.dk/glblendfunc.php
 
 ### js fsm https://github.com/jakesgordon/javascript-state-machine
+
+#### node-emoji  https://www.npmjs.com/package/node-emoji 
