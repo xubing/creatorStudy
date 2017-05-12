@@ -7,3 +7,5 @@
 ### js fsm https://github.com/jakesgordon/javascript-state-machine
 
 #### node-emoji  https://www.npmjs.com/package/node-emoji 
+
+### action 第三方 https://greensock.com
